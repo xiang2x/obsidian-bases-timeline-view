@@ -107,7 +107,7 @@ Three ways to install:
 
 - Install from Obsidian Community Plugin（Not released yet）
 - Manual install
-  - Download the latest release from [GitHub Releases](https://github.com/xjiaxiang/obsidian-bases-timeline-view/releases)
+  - Download the latest release from [GitHub Releases](https://github.com/xiang2x/obsidian-bases-timeline-view/releases)
   - Create a new folder named `bases-timeline-view` in your Obsidian plugins folder(`.obsidian/plugins/`)
   - Move the downloaded files to the new folder
   - Reload Obsidian
@@ -116,7 +116,7 @@ Three ways to install:
   - Install [BRAT](https://github.com/TfTHacker/obsidian42-brat) if you haven't installed it yet.
   - Enable BRAT in **Settings → Community plugins**
   - Open Command Palette(Ctrl+P) and type `BRAT: Plugins: Add a beta plugin for test` to open the Community Plugin Manager.
-  - input the plugin repository url: https://github.com/xjiaxiang/obsidian-bases-timeline-view
+  - input the plugin repository url: https://github.com/xiang2x/obsidian-bases-timeline-view
   - select the latest version
   - click `Add plugin` button to install the plugin.
   - enable `bases-timeline-view` plugin in **Settings → Community plugins** if it's not enabled automatically.

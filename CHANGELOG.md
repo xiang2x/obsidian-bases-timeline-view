@@ -1,49 +1,49 @@
 # Changelog
 
-## [1.4.0](https://github.com/xjiaxiang/obsidian-bases-timeline-view/compare/1.3.0...1.4.0) (2026-06-14)
+## [1.4.0](https://github.com/xiang2x/obsidian-bases-timeline-view/compare/1.3.0...1.4.0) (2026-06-14)
 
 
 ### Features
 
-* enhance timeline properties with app context and data attributes ([7723d3c](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/7723d3c8dc4cfa56adc94b32aaed4c661b11d98f))
+* enhance timeline properties with app context and data attributes ([12d9509](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/12d95099b5a9d1954c2f804d29066832f23b4b80))
 
-## [1.3.0](https://github.com/xjiaxiang/obsidian-bases-timeline-view/compare/1.2.0...1.3.0) (2026-06-12)
-
-
-### Features
-
-* enable obsidian preview when mouse hovered ([41607f8](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/41607f81db5298437ea3376f96c437dc777e4e25))
-
-## [1.2.0](https://github.com/xjiaxiang/obsidian-bases-timeline-view/compare/1.1.1...1.2.0) (2026-06-11)
+## [1.3.0](https://github.com/xiang2x/obsidian-bases-timeline-view/compare/1.2.0...1.3.0) (2026-06-12)
 
 
 ### Features
 
-* read 'date' field if `start` is not setted ([646ec01](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/646ec010500e71a25bb275b75016ff2748a8e849))
+* enable obsidian preview when mouse hovered ([e0a202c](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/e0a202c40ba62e83205e42d83e9b8c4f23576b01))
 
-## [1.1.1](https://github.com/xjiaxiang/obsidian-bases-timeline-view/compare/1.1.0...1.1.1) (2025-11-15)
+## [1.2.0](https://github.com/xiang2x/obsidian-bases-timeline-view/compare/1.1.1...1.2.0) (2026-06-11)
+
+
+### Features
+
+* read 'date' field if `start` is not setted ([259f84b](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/259f84beb58d662609932ec0dacfcd659fd696c9))
+
+## [1.1.1](https://github.com/xiang2x/obsidian-bases-timeline-view/compare/1.1.0...1.1.1) (2025-11-15)
 
 
 ### Bug Fixes
 
-* apply json.stringify to file path ([73c8520](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/73c85209984dcb7aaf05196c1bad96db850266a4))
+* apply json.stringify to file path ([623966a](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/623966ac8898df951587e3692b6e267537ccdfc9))
 
-## [1.1.0](https://github.com/xjiaxiang/obsidian-bases-timeline-view/compare/1.0.0...1.1.0) (2025-11-15)
+## [1.1.0](https://github.com/xiang2x/obsidian-bases-timeline-view/compare/1.0.0...1.1.0) (2025-11-15)
 
 
 ### Features
 
-* support  click the file name and open it ([9e8abd7](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/9e8abd7723ac6a91ed302bda4697e8fc748df304))
-* support for custom field by base option ([f9ef95f](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/f9ef95fa5061d2b06910bd9dfcfb9f7f7432b298))
+* support  click the file name and open it ([06c6eb0](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/06c6eb04370e65068c207e0f8dafd4686dea9903))
+* support for custom field by base option ([3ffb019](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/3ffb0190d08cc4c2da5599707d61cf29e448c9cd))
 
 ## 1.0.0 (2025-10-27)
 
 
 ### Features
 
-* add timeline view functionality with vis-timeline integration ([#1](https://github.com/xjiaxiang/obsidian-bases-timeline-view/issues/1)) ([c38e6cb](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/c38e6cbc086bfc9d2670e2960c6edb7cf2cad2b9))
+* add timeline view functionality with vis-timeline integration ([#1](https://github.com/xiang2x/obsidian-bases-timeline-view/issues/1)) ([aba871e](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/aba871e1ecfb177a2c1e05e792e0a999f8d1871c))
 
 
 ### Build System
 
-* add the missing config file for release please ([1c01bf1](https://github.com/xjiaxiang/obsidian-bases-timeline-view/commit/1c01bf1ee221bb90ded07a290b0076bb49668d81))
+* add the missing config file for release please ([91ac7cf](https://github.com/xiang2x/obsidian-bases-timeline-view/commit/91ac7cf163e68c82d4bcb5e62f82b607f943dc94))
