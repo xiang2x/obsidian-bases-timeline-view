@@ -2,9 +2,9 @@
 	"id": "bases-timeline-view",
 	"name": "Bases Timeline View",
 	"version": "1.4.0",
-	"minAppVersion": "1.9.0",
+	"minAppVersion": "1.11.0",
 	"description": "timeline view for bases.",
-	"author": "hey@xiang2x.com",
+	"author": "xiang2x",
 	"authorUrl": "https://github.com/xiang2x",
 	"fundingUrl": "",
 	"isDesktopOnly": false
